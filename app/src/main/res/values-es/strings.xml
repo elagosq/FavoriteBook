@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Favorito Libro</string>
+    <string name="btn_go_homeview">Entrar</string>
+    <string name="title_splashscreen">App restaurante favoritos</string>
+    <string name="home_screen_textfield_search">Buscar libros</string>
+    <string name="home_screen_icon_search_description">Buscar libro</string>
+    <string name="home_view_not_data_show">No hay datos que mostrar</string>
+    <string name="home_screen_error_show_data">Error al cargar más libros</string>
+    <string name="home_screen_end_results">Fin de los resultados</string>
+    <string name="favorite_screen_text_searchbar">Buscar</string>
+    <string name="favorite_screen_title_topbar">Favoritos</string>
+    <string name="favorite_screen_not_item_favorite">No hay item a favoritos</string>
+    <string name="detail_screen_text_editorial">Editorial: </string>
+    <string name="detail_screen_number_page">Número de páginas: </string>
+    <string name="detail_screen_text_published_date">Fecha: </string>
+    <string name="detail_screen_btn_text_advance">Avance</string>
+    <string name="detail_screen_btn_text_buy">Comprar</string>
+    <string name="search_screen_title_top_bar">Filtro Libros</string>
+</resources>

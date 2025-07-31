@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Favorite Book</string>
+    <string name="btn_go_homeview">Enter</string>
+    <string name="title_splashscreen">Favorite restaurant app</string>
+    <string name="home_screen_textfield_search">Search books</string>
+    <string name="home_screen_icon_search_description">Search Book</string>
+    <string name="home_view_not_data_show">There is no data to display</string>
+    <string name="home_screen_error_show_data">Error loading more books</string>
+    <string name="home_screen_end_results">End of results</string>
+    <string name="favorite_screen_text_searchbar">Search</string>
+    <string name="favorite_screen_title_topbar">Favorites</string>
+    <string name="favorite_screen_not_item_favorite">There are no items in favorites</string>
+    <string name="detail_screen_text_editorial">Editorial: </string>
+    <string name="detail_screen_number_page">Number of pages: </string>
+    <string name="detail_screen_text_published_date">Date: </string>
+    <string name="detail_screen_btn_text_advance">Advance</string>
+    <string name="detail_screen_btn_text_buy">Buy</string>
+    <string name="search_screen_title_top_bar">Books Filter</string>
+</resources>
