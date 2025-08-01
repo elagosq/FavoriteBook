@@ -4,19 +4,19 @@
 El proyecto es una app de libros favoritos y conecta a una API de Google Books y genera una lista de los libros en base a una búsqueda realizada. Permite guardar los libros favoritos en un almacenamiento local.
 
 ## Pantalla de bienvenida
-![App Screenshot](screenshots/1.png 500 x 500)
+<img src="screenshots/1.png" width="500" height="500"/>
 
 ## Pantalla de Inicio
-![App Screenshot](screenshots/2.png 500 x 500)
+![App Screenshot](screenshots/2.png)
 
 ## Pantalla de detalla libro
-![App Screenshot](screenshots/3.png 500 x 500)
+![App Screenshot](screenshots/3.png)
 
 ## Pantalla de filtro de libros
-![App Screenshot](screenshots/4.png 500 x 500)
+![App Screenshot](screenshots/4.png)
 
 ## Pantalla de favoritos de libros
-![App Screenshot](screenshots/5.png 500 x 500)
+![App Screenshot](screenshots/5.png)
 
 
 ## Características
