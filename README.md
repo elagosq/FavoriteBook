@@ -1,5 +1,5 @@
 
-#  App libros favoritos
+#  App Libros Favoritos
 <br>
 El proyecto es una app de libros favoritos que conecta a una API de Google Books y genera una lista de los libros en base a una búsqueda realizada. Permite guardar los libros favoritos en un almacenamiento local.
 <br>
