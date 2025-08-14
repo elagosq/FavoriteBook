@@ -1,46 +1,57 @@
 
-# Proyecto de una app libros favoritos
-
-El proyecto es una app de libros favoritos y conecta a una API de Google Books y genera una lista de los libros en base a una búsqueda realizada. Permite guardar los libros favoritos en un almacenamiento local.
+#  App libros favoritos
+<br>
+El proyecto es una app de libros favoritos que conecta a una API de Google Books y genera una lista de los libros en base a una búsqueda realizada. Permite guardar los libros favoritos en un almacenamiento local.
+<br>
 
 ## Pantalla de bienvenida
+<br>
 <p align="center">
-<img src="screenshots/1.png" width="500"/>
+<img src="screenshots/1.png" width="500" height="500"/>
 </p>
+<br>
 
 ## Pantalla de Inicio
+<br>
 <p align="center">
-<img src="screenshots/2.png" width="500"/>
+<img src="screenshots/2.png" width="500" height="500"/>
 </p>
+<br>
 
-## Pantalla de detalla libro
+## Pantalla de detalle libro
+<br>
 <p align="center">
-<img src="screenshots/3.png" width="500"/>
+<img src="screenshots/3.png" width="500" height="500"/>
 </p>
+<br>
 
 ## Pantalla de filtro de libros
+<br>
 <p align="center">
-<img src="screenshots/4.png" width="500"/>
+<img src="screenshots/4.png" width="500" height="500"/>
 </p>
+<br>
 
 ## Pantalla de favoritos de libros
+<br>
 <p align="center">
 <img src="screenshots/5.png" width="500"/>
 </p>
+<br>
 
 ## Características
-
+<br>
 - Pantalla de bienvenida
-- Listado libros
+- Listado libros y paginación
 - Filtro libros
-- Guardar libros en la pantalla de favoritos
+- Guardar libros en almacenamiento local y se muestre en la pantalla de favoritos
 - listar libros en base una busqueda
 - Detalle de un libro seleccionado.
 
 
-## Pila de tecnología
-
-Librerías utilizadas en el proyecto que se desarrolló en el lenguaje Kotlin y patrón de arquitectura de software de MVVM y Clean Architecture.
+## Librerias
+<br>
+Librerías utilizadas en el proyecto que se desarrolló en el lenguaje Kotlin, Jetpack Compose, patrón de arquitectura MVVM y Clean Architecture.
 
 - ViewModel
 - Gson 
@@ -50,6 +61,6 @@ Librerías utilizadas en el proyecto que se desarrolló en el lenguaje Kotlin y 
 - Preferences DataStore
 - Dagger hilt
 - Paging 3
-- jetpack compose
+- Jetpack Compose
 - Navigation
 - Coil
