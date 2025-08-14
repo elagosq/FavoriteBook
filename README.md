@@ -7,28 +7,28 @@ El proyecto es una app de libros favoritos que conecta a una API de Google Books
 ## Pantalla de bienvenida
 <br>
 <p align="center">
-<img src="screenshots/1.png" width="500" height="500"/>
+<img src="screenshots/1.png" width="500" />
 </p>
 <br>
 
 ## Pantalla de Inicio
 <br>
 <p align="center">
-<img src="screenshots/2.png" width="500" height="500"/>
+<img src="screenshots/2.png" width="500" />
 </p>
 <br>
 
 ## Pantalla de detalle libro
 <br>
 <p align="center">
-<img src="screenshots/3.png" width="500" height="500"/>
+<img src="screenshots/3.png" width="500" />
 </p>
 <br>
 
 ## Pantalla de filtro de libros
 <br>
 <p align="center">
-<img src="screenshots/4.png" width="500" height="500"/>
+<img src="screenshots/4.png" width="500" />
 </p>
 <br>
 
